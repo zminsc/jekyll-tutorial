@@ -1,3 +1,5 @@
+baseurl: "/jekyll-tutorial"
+
 collections:
   authors:
     output: true
